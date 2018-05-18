@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DB_Bonus_Task2(UDP Client):jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DB_Bonus_Task2_UDP_Client__jar</output-path>
+    <root id="archive" name="DB_Bonus_Task2(UDP).jar">
+      <element id="module-output" name="DB_Bonus_Task2(UDP)" />
+    </root>
+  </artifact>
+</component>
